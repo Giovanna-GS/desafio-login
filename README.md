@@ -1,8 +1,8 @@
 
-<h1 align="center"> Portfolio </h1>
+<h1 align="center"> Login RE</h1>
 
 <p align="center">
-Informações - Portfolio  <br/>
+Informações - Tela login   <br/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ Informações - Portfolio  <br/>
 <br>
 
 <p align="center">
-  <img alt="Portfolio" src=".github/preview.png" width="100%">
+  <img alt="Tela" src=".lib/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
