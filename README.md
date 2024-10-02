@@ -15,7 +15,7 @@ Informações - Tela login   <br/>
 <br>
 
 <p align="center">
-  <img alt="Tela" src=".lib/assets/preview.png" width="100%">
+  <img alt="Tela" src="lib/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
